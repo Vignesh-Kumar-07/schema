@@ -1,10 +1,4 @@
 import { HiChevronLeft } from "react-icons/hi";
-
-
-
-
-
-
 export default function Main({setIsOpen}){
     return( 
     <>
